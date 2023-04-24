@@ -1,5 +1,8 @@
 # Classification_Spaceship_Titanic
 
+##Project written as part of the course "Data Science after SDA bootcamp"
+
+##The Kaggle Competition
 The competition is organised by Kaggle and is in the GettingStarted Prediction Competition series. In this competition, you are supposed to predict predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system. Submissions are evaluated on Classification Accuracy.
 https://www.kaggle.com/competitions/spaceship-titanic/
 
