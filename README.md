@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/123495041/236911081-a59d70e1-7643-46e0-bbea-0fa896805786.png)
+![image](https://user-images.githubusercontent.com/123495041/236913511-9f83bfea-4e56-49cd-8616-3161cfb3df4a.png)
 # Classification_Spaceship_Titanic
 
 ## Project written as part of the course "Data Science after SDA bootcamp"
